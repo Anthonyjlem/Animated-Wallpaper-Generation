@@ -23,3 +23,8 @@ Add a `tokens.json` file with your HuggingFace and Civitai tokens in the root pr
 For `ace-step`, `flux`, `qwen`, and `wan`, open ComfyUI in the browser using the web function UI URL.
 
 For `krita`, use the web function UI URL as the server URL for the Krita AI Diffusion plugin (https://github.com/Acly/krita-ai-diffusion).
+
+## Examples
+https://github.com/user-attachments/assets/1c3cc3f8-69a2-4bb4-82b9-4bc597f6eaf6
+
+The example above also used Real-ESRGAN (https://github.com/xinntao/Real-ESRGAN) and Flowframes (https://github.com/n00mkrad/flowframes).
